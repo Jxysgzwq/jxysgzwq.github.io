@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jxysgzwq.org/2022/05/31/%E9%92%88%E5%AF%B9%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80%E8%A1%8C%E6%94%BF%E8%AF%89%E8%AE%BC%E7%9B%B8%E5%85%B3%E4%BF%A1%E6%81%AF%E7%9A%84%E5%85%AC%E7%A4%BA/</loc>
+    
+    <lastmod>2022-05-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jxysgzwq.org/2022/02/21/%E4%B8%BB%E4%BD%93%E8%B5%84%E6%A0%BC%E6%8E%88%E6%9D%83%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F/</loc>
+    
+    <lastmod>2022-05-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jxysgzwq.org/2022/02/23/%E4%BC%97%E7%AD%B9%E6%AC%BE%E6%94%B6%E6%AC%BE%E5%85%AC%E7%A4%BA/</loc>
     
     <lastmod>2022-05-31</lastmod>
@@ -57,15 +75,6 @@
   
   <url>
     <loc>https://jxysgzwq.org/2022/03/02/%E5%BE%8B%E5%B8%88%E4%BB%A3%E7%90%86%E5%90%88%E5%90%8C%E7%A1%AE%E8%AE%A4%E9%80%9A%E5%91%8A/</loc>
-    
-    <lastmod>2022-04-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jxysgzwq.org/2022/02/21/%E4%B8%BB%E4%BD%93%E8%B5%84%E6%A0%BC%E6%8E%88%E6%9D%83%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F/</loc>
     
     <lastmod>2022-04-03</lastmod>
     
@@ -130,7 +139,7 @@
 
   
   <url>
-    <loc>https://jxysgzwq.org/categories/%E4%BA%92%E5%8A%A8/</loc>
+    <loc>https://jxysgzwq.org/categories/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2022-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -144,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://jxysgzwq.org/categories/%E5%85%AC%E5%91%8A/</loc>
+    <loc>https://jxysgzwq.org/categories/%E4%BA%92%E5%8A%A8/</loc>
     <lastmod>2022-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
