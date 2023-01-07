@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jxysgzwq.org/2022/02/23/%E4%BC%97%E7%AD%B9%E6%AC%BE%E6%94%B6%E6%AC%BE%E5%85%AC%E7%A4%BA/</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jxysgzwq.org/2022/08/26/%E9%92%88%E5%AF%B9%E5%B7%A5%E8%A7%84%E8%AF%81%E8%A1%8C%E6%94%BF%E8%AF%89%E8%AE%BC%E7%9B%B8%E5%85%B3%E4%BF%A1%E6%81%AF%E7%9A%84%E5%85%AC%E5%91%8A/</loc>
     
     <lastmod>2023-01-03</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://jxysgzwq.org/2022/03/05/%E4%BC%97%E7%AD%B9%E6%AC%BE%E4%BD%BF%E7%94%A8%E6%98%8E%E7%BB%86/</loc>
-    
-    <lastmod>2022-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jxysgzwq.org/2022/02/23/%E4%BC%97%E7%AD%B9%E6%AC%BE%E6%94%B6%E6%AC%BE%E5%85%AC%E7%A4%BA/</loc>
     
     <lastmod>2022-10-16</lastmod>
     
@@ -148,7 +148,7 @@
 
   <url>
     <loc>https://jxysgzwq.org/</loc>
-    <lastmod>2023-01-03</lastmod>
+    <lastmod>2023-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -158,21 +158,21 @@
   
   <url>
     <loc>https://jxysgzwq.org/categories/%E4%BA%92%E5%8A%A8/</loc>
-    <lastmod>2023-01-03</lastmod>
+    <lastmod>2023-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jxysgzwq.org/categories/%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2023-01-03</lastmod>
+    <lastmod>2023-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jxysgzwq.org/categories/%E5%85%AC%E7%A4%BA/</loc>
-    <lastmod>2023-01-03</lastmod>
+    <lastmod>2023-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
